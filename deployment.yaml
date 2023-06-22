@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: dileepgowda/packages:9
+      - image: dileepgowda/packages:10
         name: myapp
         resources: {}
 status: {}
